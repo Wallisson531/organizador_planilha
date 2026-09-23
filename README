@@ -1,0 +1,36 @@
+Automação desenvolvida em Python para organizar planilhas Excel exportadas de sistemas corporativos.
+
+O programa possui interface gráfica e permite selecionar uma planilha, manter apenas as colunas necessárias e gerar automaticamente uma nova planilha organizada na pasta Downloads do usuário.
+
+🚀 Demonstração
+Tela principal
+
+O usuário:
+
+Seleciona o arquivo Excel.
+Clica em Processar Planilha.
+O sistema gera uma nova planilha organizada automaticamente.
+
+✨ Funcionalidades
+Seleção de arquivos Excel (.xlsx e .xls)
+Interface gráfica desenvolvida com Tkinter
+Filtragem automática das colunas desejadas
+Salvamento automático na pasta Downloads
+Geração de nome único com data e hora
+Tratamento de erros
+Barra de progresso
+Log de processamento
+
+🛠Tecnologias Utilizadas
+Python 3
+Pandas
+OpenPyXL
+Tkinter
+
+Para testar o projeto:
+
+=CLone o repositorio
+
+=abra a pasta do projeto
+
+=abra a pasta dist e execute o programa.
